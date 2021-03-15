@@ -62,7 +62,7 @@ __Tasks__:
 ## VueJS
 You can view this project by opening index.html in your web browser.
 
-Tasks: 
+__Tasks__: 
 
 - Build a second Vue component (the only current one is event-listing.js). This component should display all of an event's details
 - Display this component on the page above the event listing. When the user clicks one of the event listings, it should update the new component to display the clicked event's data.
