@@ -46,11 +46,11 @@ __Tasks__:
 - Add an express middleware that console.logs the URL parameters on each invocation. Here are some examples of what you might see in the console when hitting an endpoint the middleware is applied to:
     - localhost:1337/events/2080 
         ``` json
-        { id: 2080 }
+        { "id": 2080 }
         ```
     - localhost:1337/events/2041
         ```json
-        { id: 2041 }
+        { "id": 2041 }
         ```
     - localhost:1337/events *(nothing in the URL params)*
         ```json
