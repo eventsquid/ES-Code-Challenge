@@ -1,6 +1,6 @@
 # Eventsquid Code Challenges
 
-Included in this repo are a few coding challenges that touch on different technologies we use at Eventsquid. While going through these, please feel free to take your time and research as necessary, this is meant to not only assess where one is at in the tech we use, but also to get a feel for their problem-solving skills.
+Included in this repo are a few coding challenges that touch on different technologies we use at Eventsquid. While going through these, please feel free to take your time and research as necessary. This is meant to not only assess where one is at in the tech we use, but also to get a feel for their problem-solving skills.
 
 Once you have finished each of these challenges, please zip the results and email the results to: `atyrone@eventsquid.com`
 
